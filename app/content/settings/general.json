@@ -1,7 +1,7 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "Mohamed Maher",
+  "titleTemplate": "| Mohamed Maher's template",
+  "welcomeText": "\n\n# Testing Nuxt generator\n\n## Nuxt.js Starter features\n\n1. TypeScript\n2. TailwindCSS\n3. Nuxt\n4. Netlify Forms\n5. Netlify CMS\n6. includes pagination\n7. SEO & PWA ready\n8. Markdown and Rich text editor\n\nI'm a web developer testing some static site generator , now testing nuxt with netlify , i find it a very simple generators with minor seo settings.\n\n\n\n![](/images/uploads/build_process_breakdown.webp)",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
